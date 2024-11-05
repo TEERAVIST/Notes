@@ -1,0 +1,1 @@
+If you're starting out, it’s recommended to aim for modest and **sustainable returns** (e.g., **5% to 10% per month** for active traders). As you gain more experience and refine your strategies, you can gradually increase your expectations.

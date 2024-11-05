@@ -1,0 +1,4 @@
+- **Long-term investing** focuses on buying assets (like stocks, ETFs, or real estate) with the intention of holding for months or years, capitalizing on long-term growth and dividends.
+- **Profit Expectations:**
+    - **Per Month/Year:** For long-term investors, returns are usually evaluated annually rather than monthly. The **S&P 500**, a common benchmark for long-term investing, historically returns around **7% to 10% per year** (after inflation).
+    - **Compounding:** With long-term investing, compounding returns play a significant role, and you may see higher returns over the years compared to short-term strategies.

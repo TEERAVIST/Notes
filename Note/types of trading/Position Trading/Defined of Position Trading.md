@@ -1,0 +1,4 @@
+- **Position trading** is a longer-term strategy, where traders hold positions for weeks, months, or even years, based on long-term trends or fundamental analysis.
+- **Profit Expectations:**
+    - **Per Day/Month:** The profit from position trading is generally lower in percentage terms compared to day or swing trading. On average, **2% to 5% per month** is a reasonable expectation for a position trader.
+    - **Annualized:** For position traders, returns are typically evaluated on an annual basis. A good position trader might aim for **15% to 30% annualized returns**, depending on the market and strategy.

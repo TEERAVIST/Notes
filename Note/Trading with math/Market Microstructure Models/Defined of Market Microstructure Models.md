@@ -1,0 +1,1 @@
+These models study how assets are traded in markets and how prices are formed. They involve complex mathematical tools to understand the dynamics of supply and demand, liquidity, and transaction costs in financial markets.

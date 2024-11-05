@@ -1,0 +1,5 @@
+- **Day trading** involves buying and selling assets within the same trading day, typically multiple times a day, aiming to profit from small price movements.
+- **Profit Expectations:**
+    - **Per Day:** The average profit per day for day traders varies significantly. Conservative day traders might aim for **0.5% to 1%** profit per day. Aggressive day traders could aim for more, but higher returns come with increased risk.
+    - **Per Month:** If you can achieve an average of **0.5% to 1%** per day, this could translate into a monthly return of **10% to 20%** (compounding the daily gains). However, many successful day traders might aim for more modest returns due to the inherent volatility and risks of day trading.
+    - **Risk:** Day trading is highly speculative, and **consistent profitability** is challenging. The risk of losses is significant, and many day traders do not consistently make profits.

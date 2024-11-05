@@ -1,0 +1,3 @@
+- **Risk Management:** Your ability to manage risk will significantly impact your returns. **Risk-reward ratio** is critical: many successful traders aim for a **2:1 reward-to-risk ratio**, meaning they aim to make twice as much as they are willing to risk on each trade.
+- **Market Conditions:** Volatile markets tend to offer more opportunities for short-term traders but also come with higher risk. In a trending market, long-term investors might see higher returns.
+- **Leverage:** Using leverage can amplify both profits and losses. Leveraged strategies can yield higher returns but carry the risk of larger drawdowns.
