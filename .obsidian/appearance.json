@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Wasp",
+  "monospaceFontFamily": "Source Code Pro",
+  "baseFontSize": 19,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
+}
