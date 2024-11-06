@@ -1,4 +1,4 @@
-Algorithmic trading (or "algo trading") uses mathematical models and computer algorithms to automate trading decisions. These algorithms can use complex mathematical formulas to:
+Algorithmic trading (or **algo trading**) uses mathematical models and computer algorithms to automate trading decisions. These algorithms can use complex mathematical formulas to:
 
 - Identify trading signals.
 - Execute trades at optimal times to maximize profits.
