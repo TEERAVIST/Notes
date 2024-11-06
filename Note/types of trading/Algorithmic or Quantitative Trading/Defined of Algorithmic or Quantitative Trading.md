@@ -1,4 +1,4 @@
-- **Algorithmic trading** uses computer programs and mathematical models to execute trades based on predefined criteria. It can be high-frequency (making many trades per day) or lower-frequency (making trades over days or weeks).
+- **[[Note/types of trading/Algorithmic or Quantitative Trading/Algorithmic Trading Strategies/List of|Algorithmic trading]]** uses computer programs and mathematical models to execute trades based on predefined criteria. It can be high-frequency (making many trades per day) or lower-frequency (making trades over days or weeks).
 - **Profit Expectations:**
     - **Per Day:** In high-frequency trading (HFT), profits might be quite small per trade but accumulate over many trades. **0.1% to 0.5% per day** could be realistic for some high-frequency strategies.
     - **Per Month:** Monthly returns in algorithmic trading vary depending on the strategy, market conditions, and the amount of capital involved. For example, a successful quant strategy might aim for **5% to 10% per month**.
